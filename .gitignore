@@ -1,0 +1,32 @@
+# Visual Studio / VSCode
+.vs/
+.vscode/
+.vsconfig
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User specific settings
+UserSettings/
+
+# Crash Reports
+sysinfo.txt
+
+# Other
+*.csproj
+*.unityproj
+*.sln
+*.swp
+*.tmp
+*.pidb
+*.user
+*.booproj
+*.svd
+
+# Unity Asset meta files should be kept (don't ignore *.meta!)

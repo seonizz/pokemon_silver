@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1758d8e08a3011c4f85a6c59c48493a4, type: 3}
+  m_Name: water
+  m_EditorClassIdentifier: 
+  pokemonName: "\uB9AC\uC544\uCF54"
+  pokemonSprite: {fileID: 5254418013435550052, guid: 7212e8d805f5a5d408d7c2854ac7eaee, type: 3}
+  backSprite: {fileID: 5254418013435550052, guid: 7212e8d805f5a5d408d7c2854ac7eaee, type: 3}
+  level: 5
+  maxHp: 100
+  attack: 0
+  defense: 0
